@@ -1,16 +1,18 @@
-### Hi there 👋
+# Mitchell Hanberg 🤗
 
-<!--
-**mhanberg/mhanberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior software engineer and am building web applications and backend systems in Elixir with a focus on team productivity, collaboration and good design.
 
-Here are some ideas to get you started:
+I am the maintainer/author of a few open source projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Wallaby](https://www.github.com/elixir-wallaby/wallaby) (maintainer)
+- [Temple](https://www.github.com/mhanberg/temple) (author)
+- [elixir.nvim](https://www.github.com/mhanberg/elixir.nvim) (author)
+- [lazyasdf](https://www.github.com/mhanberg/lazyasdf) (author)
+- [gen_lsp](https://www.github.com/mhanberg/gen_lsp) (author)
+
+Please consider [sponsoring me on GitHub](https://github.com/sponsors/mhanberg) if you use any of these projects.
+
+## Links
+
+- [Blog](https://www.mitchellhanberg.com)
+- [Twitter](https://twitter.com/mitchhanberg)
