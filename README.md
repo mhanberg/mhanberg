@@ -6,11 +6,17 @@ I am the maintainer/author of a few open source projects:
 
 - [Wallaby](https://www.github.com/elixir-wallaby/wallaby) (maintainer)
 - [Temple](https://www.github.com/mhanberg/temple) (author)
-- [elixir-tools.nvim](https://www.github.com/elixir-tools/elixir-tools.nvim) (author)
-- [gen_lsp](https://www.github.com/mhanberg/gen_lsp) (author)
-- [credo-language-server](https://github.com/elixir-tools/credo-language-server) (author)
 
-Please consider [sponsoring me on GitHub](https://github.com/sponsors/mhanberg) if you use any of these projects.
+## elixir-tools
+
+I have founded [elixir-tools](https://github.com/elixir-tools) in order to create the best Elixir developer tooling that has ever existed.
+
+Please consider [sponsoring me on GitHub](https://github.com/sponsors/mhanberg) if you want to help make this dream a reality.
+
+- [elixir-tools.nvim](https://www.github.com/elixir-tools/elixir-tools.nvim) (author)
+- [elixir-tools.vscode](https://www.github.com/elixir-tools/elixir-tools.vscode) (author)
+- [gen_lsp](https://www.github.com/elixir-tools/gen_lsp) (author)
+- [credo-language-server](https://github.com/elixir-tools/credo-language-server) (author)
 
 ## Links
 
