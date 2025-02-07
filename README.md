@@ -1,6 +1,6 @@
 # Mitchell Hanberg 🤗
 
-I'm a senior software engineer and am building web applications and backend systems in Elixir with a focus on team productivity, collaboration and good design.
+I'm a lead software engineer and am building web applications and backend systems in Elixir with a focus on team productivity, collaboration and good design.
 
 I am the maintainer/author of a few open source projects:
 
