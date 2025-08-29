@@ -7,19 +7,23 @@ I am the maintainer/author of a few open source projects:
 - [Wallaby](https://www.github.com/elixir-wallaby/wallaby) (maintainer)
 - [Temple](https://www.github.com/mhanberg/temple) (author)
 
+## Expert Language Server
+
+I am on the core team for the [Expert](https://github.com/elixir-lang/expert) project, the official language server for Elixir. The project started as the merging of the three existing language server projects.
+
 ## elixir-tools
 
 I have founded [elixir-tools](https://github.com/elixir-tools) in order to create the best Elixir developer tooling that has ever existed.
 
 Please consider [sponsoring me on GitHub](https://github.com/sponsors/mhanberg) if you want to help make this dream a reality.
 
-- [Next LS](https://github.com/elixir-tools/next-ls) (author)
 - [Tableau](https://github.com/elixir-tools/tableau) (author)
 - [Spitfire](https://github.com/elixir-tools/spitfire) (author)
 - [elixir-tools.nvim](https://www.github.com/elixir-tools/elixir-tools.nvim) (author)
 - [elixir-tools.vscode](https://www.github.com/elixir-tools/elixir-tools.vscode) (author)
 - [GenLSP](https://www.github.com/elixir-tools/gen_lsp) (author)
 - [Credo Language Server](https://github.com/elixir-tools/credo-language-server) (author)
+- [Next LS](https://github.com/elixir-tools/next-ls) (author, archived)
 
 ## Links
 
